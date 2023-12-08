@@ -782,3 +782,5 @@ while (!checkIfAllFound()) {
 }
 
 console.log(pathEndZ);
+
+//PPCM PGCD via chatgpt :D
